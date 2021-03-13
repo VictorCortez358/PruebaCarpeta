@@ -1,0 +1,16 @@
+C:\Users\Giga\Desktop\C#\CountersandAccumulators\bin\Debug\net5.0\CountersandAccumulators.exe
+C:\Users\Giga\Desktop\C#\CountersandAccumulators\bin\Debug\net5.0\CountersandAccumulators.deps.json
+C:\Users\Giga\Desktop\C#\CountersandAccumulators\bin\Debug\net5.0\CountersandAccumulators.runtimeconfig.json
+C:\Users\Giga\Desktop\C#\CountersandAccumulators\bin\Debug\net5.0\CountersandAccumulators.runtimeconfig.dev.json
+C:\Users\Giga\Desktop\C#\CountersandAccumulators\bin\Debug\net5.0\CountersandAccumulators.dll
+C:\Users\Giga\Desktop\C#\CountersandAccumulators\bin\Debug\net5.0\ref\CountersandAccumulators.dll
+C:\Users\Giga\Desktop\C#\CountersandAccumulators\bin\Debug\net5.0\CountersandAccumulators.pdb
+C:\Users\Giga\Desktop\C#\CountersandAccumulators\obj\Debug\net5.0\CountersandAccumulators.csprojAssemblyReference.cache
+C:\Users\Giga\Desktop\C#\CountersandAccumulators\obj\Debug\net5.0\CountersandAccumulators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giga\Desktop\C#\CountersandAccumulators\obj\Debug\net5.0\CountersandAccumulators.AssemblyInfoInputs.cache
+C:\Users\Giga\Desktop\C#\CountersandAccumulators\obj\Debug\net5.0\CountersandAccumulators.AssemblyInfo.cs
+C:\Users\Giga\Desktop\C#\CountersandAccumulators\obj\Debug\net5.0\CountersandAccumulators.csproj.CoreCompileInputs.cache
+C:\Users\Giga\Desktop\C#\CountersandAccumulators\obj\Debug\net5.0\CountersandAccumulators.dll
+C:\Users\Giga\Desktop\C#\CountersandAccumulators\obj\Debug\net5.0\ref\CountersandAccumulators.dll
+C:\Users\Giga\Desktop\C#\CountersandAccumulators\obj\Debug\net5.0\CountersandAccumulators.pdb
+C:\Users\Giga\Desktop\C#\CountersandAccumulators\obj\Debug\net5.0\CountersandAccumulators.genruntimeconfig.cache
